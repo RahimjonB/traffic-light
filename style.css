@@ -1,0 +1,24 @@
+#traffic-light{
+    border: 10px solid black;
+    width: 80px;
+    height: 200px;
+    border-radius: 30px;
+}
+#traffic-light div{
+    width:60px;
+    height: 60px;
+    border-radius: 30px;
+}
+#red{
+    background-color: black;
+    margin-top: 6px;
+}
+#yellow{
+    background-color: black;
+    margin-top: 6px;
+}
+#green{
+    background-color: black;
+    margin-top: 6px;
+}
+
